@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en" >
 <b:skin>
 </b:skin>
@@ -21,34 +22,7 @@
 </b:section>
 
 	<style>
-      @media only screen and (max-width:568px){
-.post{height:auto;width:100%!important;display:inline-block;text-decoration:none;float:left;margin:0 1.1% 2%;padding:0!important}
-.main-inner .column-right-outer{width:100%!important;padding-bottom:50px!important;padding-top:50px}
-}
-@media only screen and (max-width:800px){
-.main-inner .column-center-inner {padding: 0px;}
-.main-inner .columns{padding-left:0;padding-right:310px;width:100%!important;position:relative;right:0!important}
-.main-inner .column-right-outer{width:310px!important;margin-right:0!important;position:relative;right:10px!important}
-.main-inner .column-right-outer{padding-top:50px!important;padding-bottom 50px!important}
-}
-@media only screen and (max-width:1010px) {
-body .navbar {height: 0px !important;}
-body{min-width:0!important;width:100%!important;padding:0!important}
-.content{width:100%!important;min-width:0!important;overflow:hidden!important}
-.header-outer{width:100%}
-.fauxborder-left{width:100%!important}
-html body .region-inner{min-width:0!important;max-width:100%!important;width:100%!important;padding-left:0}
-.header-inner .section{margin:0;width:100%!important}
-.footer-outer{width:100%!important}
-.content-outer,.content-fauxcolumn-outer,.region-inner{min-width:0!important;max-width:100%!important}
-#sidebar-right-1{width:100%!important}
-.main-inner .column-right-outer{width:45%!important;margin-right:-310px;position:relative;right:10px!important}
-.main-inner .columns{padding-left:0;padding-right:310px;width:70%!important;position:relative;right:20px!important}
-#sidebar-right-1 a img{max-width:100%!important}
-.post-body img, .post-body .tr-caption-container {max-width: 100%;height: auto;}
-}
-      
-      
+
 		body {
 			padding: 0;
 			margin: 0;
@@ -70,12 +44,6 @@ html body .region-inner{min-width:0!important;max-width:100%!important;width:100
     border: 0;
     font-weight: 600;
     right: 10px;
-}
-.post-body img, .post-body .tr-caption-container {
-padding: 0;
-width:auto;
-max-width:100%;
-height:auto;
 }
       
 <!--ini-->      
